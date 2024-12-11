@@ -1,4 +1,4 @@
-<h3 align="center">👋 Hi, I'm Laurence, a passionate college student and aspiring programmer pursuing a Bachelor of Science in Information Technology at EARIST.</h3>
+<h3 align="center">👋 Hi, I'm Laurence, a college student and aspiring programmer pursuing a Bachelor of Science in Information Technology at EARIST.</h3>
 
 ###
 
