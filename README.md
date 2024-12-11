@@ -31,16 +31,16 @@
 ###
 
 <div align="center">
-  <a href="mailto:quiniano.lp.bsinfotech@gmail.com" target="blank">
+  <a href="mailto:quiniano.lp.bsinfotech@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="gmail logo" />
   </a>
-  <a href="https://web.facebook.com/xRency" target="blank">
+  <a href="https://web.facebook.com/xRency" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="facebook logo" />
   </a>
-  <a href="https://www.instagram.com/renceskieee27/" target=blank">
+  <a href="https://www.instagram.com/renceskieee27/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="instagram logo" />
   </a>
-  <a href="https://discordapp.com/users/hi_rency" target="blank">
+  <a href="https://discordapp.com/users/hi_rency" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="discord logo" />
   </a>
 </div>
