@@ -31,22 +31,27 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <a href="https://web.facebook.com/xRency" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
+  </a>
+  <a href="https://www.instagram.com/renceskieee27/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="https://discordapp.com/users/hi_rency" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
 </div>
 
 ###
 
 <br clear="both">
 
-<div align="center">
+<div align="center" style="margin-top: 20px;">
   <img src="https://github-readme-stats.vercel.app/api?username=Renceskieee&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="130" alt="stats graph"  />
+  <br/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Renceskieee&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=dark&hide_border=false&order=2" height="130" alt="languages graph"  />
 </div>
 
 ###
 
-<h4 align="left">📌Bagumbong, Caloocan City<br>🏫Eulogio "Amang" Rodriguez Institute of Science and Technology<br>📧quiniano.lp.bsinfotech@gmail.com</h4>
-
-###
+<h3 align="left">📌Bagumbong, Caloocan City<br>🏫Eulogio "Amang" Rodriguez Institute of Science and Technology<br>📧quiniano.lp.bsinfotech@gmail.com</h4>
